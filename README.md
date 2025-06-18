@@ -152,11 +152,13 @@ This dataset contains anonymized orders made at Olist Store from 2016 to 2018.
 - Hover over visuals for detailed **interactive tooltips**
 
 📁 Repository Structure
+
 📦 Repository Root
-├── 📁  file csv                          # data files for analysis
-├── 📁 images/                           # Icons and visual assets
+├── 📁 file csv # data files for analysis
+├── 📁 images/ # Icons and visual assets
 │   └── 🖼️ [various icons used in reports]
-├── 📄 W20D4 - Final Exercise.pbix       # Power BI project file
+├── 📁 sample report # Power BI dashboard
+├── 📄 W20D4 - Final Exercise.pbix # Power BI project file
 └── 📄 W20D4 - Final Exercise Report.pdf # Complete project report
 
 
