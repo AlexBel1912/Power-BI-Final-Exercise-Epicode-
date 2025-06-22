@@ -174,11 +174,11 @@ This project was developed as the **final exercise assignment** for the **Power 
 ## 👩‍💻 Author
 
 **Alexandra Belacurencu**  
-*Data Analyst*
+*Data Analyst Junior*
 
 🛠️ **Technical Skills**: Excel | SQL | Python | Power BI | Data Visualization  
 🎓 **Education**: Data Analytics Program - Epicode  
-🔗 **Connect**: [LinkedIn](https://www.linkedin.com/in/alexandra-belacurencu/)| [GitHub](https://github.com/AlexBel1912) | [Portfolio](https://sites.google.com/view/alexandrabela/progetti)
+🔗 **Connect**: [LinkedIn](https://www.linkedin.com/in/alexandra-belacurencu/)| [GitHub](https://github.com/AlexBel1912) | [Website](https://www.visionedata.com/progetti)
 
 ---
 
